@@ -56,4 +56,5 @@ TIMING DIGRAMS FOR FLIP FLOPS:
 
 RESULTS:
 
+
 Thus the OUTPUT of Flip Flop are verified by synthesizing and simulating the VERILOG code.
